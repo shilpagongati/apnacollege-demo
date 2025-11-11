@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first Git Repository
-Author-gongati shilpa
+this is my first Git Repository.
+<br>
+Author-Gongati shilpa.
